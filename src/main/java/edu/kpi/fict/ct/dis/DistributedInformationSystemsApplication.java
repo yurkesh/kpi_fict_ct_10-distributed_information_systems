@@ -8,5 +8,6 @@ public class DistributedInformationSystemsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DistributedInformationSystemsApplication.class, args);
+		;
 	}
 }
